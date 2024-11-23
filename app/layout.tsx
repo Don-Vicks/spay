@@ -20,6 +20,8 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "Solara Pay",
   description: "Instant Payroll Disbursement Powered by Solana",
+  keywords: ['payroll', 'solana', 'instant payroll disbursement'],
+  icons: './logo.png',
 };
 
 
